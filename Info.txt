@@ -2,4 +2,7 @@
 
 Here we automated the excel spreadsheet using python script.
 
+Doing the job with excel can take very long and may be annoying
+
+
 
