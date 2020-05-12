@@ -1,2 +1,5 @@
 #Automate the boring stuff using python!
 
+Here we automated the excel spreadsheet using python script.
+
+
