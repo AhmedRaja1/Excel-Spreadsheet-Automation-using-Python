@@ -6,6 +6,6 @@ Doing the job with excel can take very long and may be annoying
 
 But we automated the whole job with python within a second.
 
-
+Thats the power of python.
 
 
