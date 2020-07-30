@@ -1,2 +1,2 @@
 # Excel-Spreadsheet-Automation-using-Python
-# Python Automation Projec
+# Python Automation Project
